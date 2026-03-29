@@ -51156,7 +51156,6 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||information.cleanservices.co.uk^
 ||information.clubcorp.com^
 ||information.cma-cgm.com^
-||information.com^
 ||information.fi360.com^
 ||information.frbcommunications.org^
 ||information.lgcns.com^
