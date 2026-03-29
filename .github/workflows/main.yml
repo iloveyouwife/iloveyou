@@ -15,15 +15,15 @@ jobs:
 
       - name: Download rules（下载规则）
         run: |
-          mkdir rules
+          mkdir -p rules
           while read url; do
             curl -sL "$url" >> rules/all.txt
             echo "" >> rules/all.txt
           done < lists.txt
 
-      - name: Remove duplicates（去重）
+      - name: Clean rules（去重+去注释+去空行）
         run: |
-          sort rules/all.txt | uniq > merged.txt
+          sort rules/all.txt | uniq | grep -v '^!' | sed '/^$/d' > merged.txt
 
       - name: Commit result（提交结果）
         run: |
