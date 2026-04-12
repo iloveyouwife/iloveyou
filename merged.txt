@@ -6207,7 +6207,6 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||abdomeneast.com^
 ||abdpac.williamsshoes.com.au^
 ||abdrjm.eurostarshotels.de^
-||abdwxhao.com^
 ||abeacon.cn^
 ||abeacon.com^
 ||abeddisagreeable.com^
@@ -41577,7 +41576,6 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||globus-inter.com^
 ||globwo.online^
 ||glochatuji.com^
-||glodsidrik.net^
 ||gloeuetruvdsj.com^
 ||gloggoperla.shop^
 ||gloochie.com^
@@ -71559,7 +71557,6 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||ofpodconnmtyd.space^
 ||ofppahlkiz.com^
 ||ofptzgmiiyeod.website^
-||ofqcjonrcusvpok.com^
 ||ofqdwvymud.xyz^
 ||ofqkbk.proclipusa.com^
 ||ofqlvcujykanc.site^
