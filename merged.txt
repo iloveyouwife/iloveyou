@@ -9084,7 +9084,6 @@ zongheng.com###zh_ab_rb,#sumcard_flag,#gameFTip
 ||ads.youtube.com^
 ||ads.zalo.me^
 ||ads.zaloapp.com^
-||ads.zascdn.me^
 ||ads.zhinengxiyifang.cn^
 ||ads.zunia.vn^
 ||ads01.pages.dev^
