@@ -1,6 +1,8 @@
 https://abp.oisd.nl/basic
 https://anti-ad.net/easylist.txt
 https://fastly.jsdelivr.net/gh/banbendalao/ADgk@master/ADgk.txt
-https://cdn.jsdelivr.net/gh/xinggsf/Adblock-Plus-Rule@master/rule.txt
+https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
 https://raw.githubusercontent.com/Cats-Team/AdRules/main/rules/dns.txt
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/adblock/ultimate.txt
+https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/refs/heads/master/rule.txt
 https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt
