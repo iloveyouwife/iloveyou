@@ -6,5 +6,6 @@ https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
 https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/DD-AD.txt
 https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/adblock/pro.txt
 https://raw.githubusercontent.com/Cats-Team/AdRules/main/rules/dns.txt
+https://raw.githubusercontent.com/mphin/adguardhome_rules/main/Blacklist.txt
 https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/refs/heads/master/rule.txt
 https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt
