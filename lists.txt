@@ -1,5 +1,4 @@
 https://abp.oisd.nl/basic
-http://hgzs.uunat.com/hg1.txt
 https://anti-ad.net/easylist.txt
 https://fastly.jsdelivr.net/gh/banbendalao/ADgk@master/ADgk.txt
 https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
