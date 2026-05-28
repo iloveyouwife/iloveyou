@@ -6114,6 +6114,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||0cc89328975510f0.com^
 ||0ccourts.org^
 ||0cd87fdba0127158.com^
+||0cdf9706af.com^
 ||0cdn.xyz^
 ||0ce8b038d91678931f9d624bacfaf662.top^
 ||0cea29a54fa0.com^
@@ -7639,6 +7640,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||123.sogoucdn.com^
 ||123.ydylwang.net^
 ||123.ywxww.net^
+||1230165f1b.com^
 ||12306media.com^
 ||1230amdigital.com^
 ||1230horn515.com^
@@ -9236,6 +9238,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||1abdc998ac95fc0d.com^
 ||1abzar.ir^
 ||1ac28ac46306b1a7.com^
+||1ac45b0913.com^
 ||1ad9f7502406.xyz^
 ||1adi9wenq.com^
 ||1aed0f66f1605d6e.com^
@@ -11798,6 +11801,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||36d1ef387c.com^
 ||36d812d5eb5a156d.com^
 ||36ddl.top^
+||36f822ca84.com^
 ||36g.top^
 ||36j3myx1u1.beer^
 ||36lefilm.com^
@@ -12847,6 +12851,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||478pc.top^
 ||479d24d9fd.com^
 ||47a7485d3889082f.com^
+||47ae11ce2f.com^
 ||47b0e35ab120fde5.com^
 ||47c06c5fda61569e.com^
 ||47c1f6f33368e6ac84c3c19758092831e56fe443f2ec637703386051.com^
@@ -14950,6 +14955,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||699c69aec444b145.com^
 ||69a6472ec1011.beer^
 ||69ac475b1069570a1167477acca6d5c3.com^
+||69b22afb80.com^
 ||69b2649551b5125e.com^
 ||69b91da12ca0a0e6.com^
 ||69c3736082.com^
@@ -17334,6 +17340,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||91cd3khn.de^
 ||91chaodijia.com^
 ||91d020d56524509b.com^
+||91d02a6a8c.com^
 ||91damimi.com^
 ||91df01fa04c4.top^
 ||91df01fa04c4.xyz^
@@ -17603,6 +17610,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||962e1a64ec7d.com^
 ||963296b0d58fb01a.com^
 ||96382zubo66756.com^
+||963885aed1.com^
 ||963a45e65f.7d909fb540.com^
 ||963a7ca892fc7196.com^
 ||963fc.com^
@@ -20647,6 +20655,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||a8b5e8ef9aced460.com^
 ||a8bea9eb5d.com^
 ||a8c28d56a8080b5a.com^
+||a8ca394de0.com^
 ||a8ce3bf986bd73f7.com^
 ||a8clic.alcosystem.co.jp^
 ||a8click.daini2.co.jp^
@@ -49349,7 +49358,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||b1f51f1561.79fb811d53.com^
 ||b1f80b00e34e6662.top^
 ||b1fae49c1c6ece4b.com^
-||b1fb7ee141.3fc6424eda.com^
 ||b1img.com^
 ||b1j77.com^
 ||b1js.com^
@@ -49373,7 +49381,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||b23e15f1aea7.com^
 ||b240ea4ef8.com^
 ||b24f5aa0c88ce3ba.com^
-||b257c1d0e9.7fa28aad94.com^
 ||b25f7dcc13b2acb9.com^
 ||b2639f9ea191b9cc.com^
 ||b265r.xyz^
@@ -49445,6 +49452,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||b39b64d08bf4.space^
 ||b3a5b7b06d79842b.com^
 ||b3b12d362a705ea8.com^
+||b3bdc7e743.com^
 ||b3beca4e4a.com^
 ||b3builds.com^
 ||b3c733588e.36dc612c23.com^
@@ -59394,6 +59402,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||c7ca525b2e.0491166852.com^
 ||c7e553b678e34e41.com^
 ||c7ee78a00953d9cf.com^
+||c7f39565a8.com^
 ||c7f4d1276e.com^
 ||c7f74d9c35a62455c41e727786e4e37d.com^
 ||c7fbb593c271ec0a4df33c5c80f4525b.com^
@@ -62715,6 +62724,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||cf89bd2e8f33.org^
 ||cf97134c89.com^
 ||cf9d94a2f412c5f6.com^
+||cf9e789bf0.com^
 ||cfa-js.cafe24.com^
 ||cfa.fidelity.com^
 ||cfaexam.quantresear.ch^
@@ -94392,6 +94402,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||f9e18b0920.icu^
 ||f9ed09b593250fb6.com^
 ||f9fcbj14n43571r45tg7.cfd^
+||f9fd639740.com^
 ||f9fdf2b08c3c46bb.com^
 ||f9gv87zoq2.com^
 ||f9pfh5emg2enn6tl6rp9om95p.cfd^
@@ -95535,6 +95546,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||fd154de2872e6848.com^
 ||fd173.cn/fzent/*ad$script
 ||fd1c99c514eb106a.com^
+||fd1f580172.com^
 ||fd2.m.630book.la^
 ||fd2722b11f.com^
 ||fd2acb4010344e8eafe46a0bde258690.today^
