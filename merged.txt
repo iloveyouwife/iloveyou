@@ -142016,7 +142016,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||login.goclickz.com^
 ||login.high-on-ads.com^
 ||login.hotmaracas.com^
-||login.hueads.com^
 ||login.hueadsortb.com^
 ||login.iondesignco.com^
 ||login.jotterads.com^
