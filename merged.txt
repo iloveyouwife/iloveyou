@@ -8338,6 +8338,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||1217media.com^
 ||121888coinbase.com^
 ||12199.cfd^
+||121basic.com^
 ||121core.com^
 ||121games.com^
 ||121gd.com^
@@ -31695,7 +31696,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ad-block-offer.com^
 ||ad-block.shop^
 ||ad-blocker.org^
-||ad-blocker.prod-blocking.workers.dev^
 ||ad-bls-tracking.lemino.docomo.ne.jp^
 ||ad-board.com^
 ||ad-brix.com^
@@ -33098,7 +33098,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||adblockanalytics.com^
 ||adblockenterpriseedition.com^
 ||adblocker-sentinel.net^
-||adblocker.prod-blocking.workers.dev^
 ||adblockermax.com^
 ||adblockeromega.com^
 ||adblockerprofessional.com^
@@ -54617,6 +54616,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||avourpimlicodoping.cyou^
 ||avoutryledger.digital^
 ||avowneighbouringfaculty.com^
+||avoxrynjkgpga.online^
 ||avp.labanquepostale.fr^
 ||avpjihtkjsnfe.space^
 ||avpr.cn^
@@ -116119,6 +116119,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||gfeede.theminda.com^
 ||gfexixohmfrxw.space^
 ||gff660fg.xyz^
+||gffggfxim.com^
 ||gffoycbmmfptr.space^
 ||gfgcwf.vidaxl.lv^
 ||gfgfkldkldfklkldffdkldf.com^
@@ -157306,6 +157307,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||lvm5ybt1fm.data.adobedc.net^
 ||lvmeet.net^
 ||lvnskin.com^
+||lvojijsguhs.com^
 ||lvqcfuwngsaxmp.com^
 ||lvqg.cn^
 ||lvqianbao8.com^
@@ -171107,6 +171109,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||monitoring.truyenthanhso.com^
 ||monitoring.vnmedic.vn^
 ||monitoring.youronlinechoices.com^
+||monitoringoutsettings.net^
 ||monitoringservice.co^
 ||monitorpeachy.com^
 ||monitortrading.my.id^
@@ -180600,6 +180603,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ofdalslf.com^
 ||ofdnfisab.com^
 ||ofdokmnalzu.com^
+||ofdougmlfyd.com^
 ||ofdoyluowkolk.website^
 ||ofdpmoabbtak.in^
 ||ofe1924812034-yh345.shop^
@@ -201065,6 +201069,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||qutsgp.calif.cc^
 ||qutvihlwup.com^
 ||qutwryam.com^
+||qutxilqcuqp.in^
 ||qutyan8848.com^
 ||quu175kt3.com^
 ||quuawwsijimlf.website^
@@ -244294,6 +244299,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||tnctrx.com^
 ||tncycnhulwray.website^
 ||tnd.ecefibwja.xyz^
+||tndkwerwq.com^
 ||tneca.com^
 ||tneduf.com^
 ||tnegeszxnuwpo.space^
@@ -251405,6 +251411,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||tuckergrass.com^
 ||tuckerk.com^
 ||tuckmudjackson.com^
+||tudbtiifm.com^
 ||tudhcopneuxnm.online^
 ||tuding.xyz^
 ||tudnodkell.info^
