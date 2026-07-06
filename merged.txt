@@ -38812,6 +38812,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||aduansisa.my^
 ||adui.tg.meitu.com^
 ||aduic.com^
+||adukwai.com^
 ||adulateearring.com^
 ||adulateprofessnorth.com^
 ||adult-8.com^
@@ -161136,7 +161137,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||mc-donalds.fr^
 ||mc-nudes.com^
 ||mc-sentry.belka-games.com^
-||mc.admetrica.ru^
 ||mc.boyshipdelated.com^
 ||mc.followhecate.top^
 ||mc.hujiang.com^
@@ -181678,7 +181678,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||p1-ad.adukwai.com^
 ||p1-feedback.byteimg.com^
 ||p1-jx.adukwai.com^
-||p1-lm.adukwai.com^
 ||p1-play.edge4k.com^
 ||p1-play.kgslb.com^
 ||p1.360soucha.com^
