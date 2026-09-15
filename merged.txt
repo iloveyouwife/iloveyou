@@ -8559,6 +8559,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||1c5f1htu9fzkbx8j.cfd^
 ||1c680fa3bc1c1937c0c8675e1b2d5a83d1b23867a18269a887361a35.com^
 ||1c6fd11ca2.com^
+||1c919ac17f.61fe2d132b.com^
 ||1c9cb31b78.com^
 ||1ca6e3e357.a8ca394de0.com^
 ||1cannha.com^
@@ -9681,6 +9682,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||2ba5dbc5be.com^
 ||2baksa.net^
 ||2bd77addac.com^
+||2bd89d5d9a.63b3c3ecc2.com^
 ||2bee.jp^
 ||2beno.com^
 ||2bestoffer.com^
@@ -10400,6 +10402,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||373d8176dc01.top^
 ||373f6ad61bababa2d0de1e353caeec77f66e42b142a0a95ff11fe7ac.com^
 ||375bixi.com^
+||3794a7ba2c.1f26db4741.com^
 ||3798.com^
 ||37a9094932fa2b7e.com^
 ||37b3eaaf9a.com^
@@ -11042,6 +11045,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||45b58980d0.com^
 ||45bid.org^
 ||45c0e7eaf1f0.com^
+||45c6107d1f.784d1dcf4a.com^
 ||45cashloans.com^
 ||45d2074110dd.top^
 ||45eijvhgj2.com^
@@ -11915,6 +11919,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||5b5a9b16a93a.com^
 ||5b8tv.top^
 ||5bayjqsrgd.com^
+||5bbac33484.ced8c68532.com^
 ||5bd3cec305.com^
 ||5bdafc039a.com^
 ||5bess6df0.com^
@@ -12565,6 +12570,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||6f9ijuvegiwnhx6o7l1bwev2n7jo.rest^
 ||6fa14d5b18.b73f89c4ab.com^
 ||6fd3f6p.6fd3f6f97d60a87a6843d9b39641ea537a03818c.com^
+||6fe2288094.c33fd93ed8.com^
 ||6figaff.com^
 ||6fm4dcpj31.com^
 ||6fxtpu64lxyt.com^
@@ -14687,6 +14693,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||a.binpartner.com^
 ||a.bjhuajing.com.cn^
 ||a.blendernation.com^
+||a.blesk.cz^
 ||a.booksir.cn^
 ||a.boredpanda.bio^
 ||a.brack.ch^
@@ -24828,7 +24835,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ads.redluckia.com^
 ||ads.redmangoanalytics.com^
 ||ads.redmoonstudios.de^
-||ads.regiedepub.com^
 ||ads.regionews.at^
 ||ads.rehakids.org^
 ||ads.rejsestart.dk^
@@ -25316,6 +25322,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ads.zalora.com^
 ||ads.zamunda.net^
 ||ads.zamunda.se^
+||ads.zascdn.me^
 ||ads.zattoo.com^
 ||ads.zdn.vn^
 ||ads.zdravie.sk^
@@ -27040,6 +27047,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||advertica-cdn.com^
 ||advertica.com^
 ||adverticum.com^
+||adverticus.de^
 ||advertipros.com^
 ||advertise.
 ||advertise.baicizhan.com^
@@ -60187,6 +60195,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||cdn.app.liuxingyul.cn^
 ||cdn.appconnect.pozitron.com^
 ||cdn.appnext.com^
+||cdn.appround.biz^
 ||cdn.appsflyer.com^
 ||cdn.appsmav.com^
 ||cdn.arcstudiopro.com^
@@ -64675,7 +64684,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||clunkyentirelinked.com^
 ||clurdfsagmfjh.space^
 ||cluster-piwik.locaweb.com.br^
-||cluster.adultworld.com^
 ||cluster.xhspot.com^
 ||clusterdaint.shop^
 ||clusterdismissinvolved.com^
@@ -66904,7 +66912,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||collector.sst.lumories.ro^
 ||collector.sst.lumories.si^
 ||collector.sst.nettilamppu.fi^
-||collector.statowl.com^
 ||collector.stunvv.com^
 ||collector.subito.it^
 ||collector.superwall.me^
@@ -76969,6 +76976,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||dcc.ghrtgf.xyz^
 ||dcc.strbgi.xyz^
 ||dccb7552-api.spatialbuzz.net^
+||dcce8be08b.0458a53a71.com^
 ||dccfog.petco.com^
 ||dccjbhajbchicfgagabi.world^
 ||dcclaa.bunte.de^
@@ -87653,6 +87661,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ejejip.bjjfanatics.com^
 ||ejepontspwiip.website^
 ||ejevanjc.info^
+||ejevika.com^
 ||ejexgcirsdwvx.online^
 ||ejfeng.com^
 ||ejfstrkmgwrql.site^
@@ -100021,6 +100030,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||free3dgame.xyz^
 ||freeacy.com^
 ||freeadblockerbrowser.com^
+||freeadd.me^
 ||freeadultcomix.com^
 ||freeasphost.net^
 ||freeavalanche.ru^
@@ -107392,6 +107402,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||gou.wps.cn^
 ||gouchapticauru.com^
 ||goucurl.cyou^
+||gougewhenaus.net^
 ||gougingskillo.shop^
 ||gouikrywyxnmo.store^
 ||goujayunwind.qpon^
@@ -121460,7 +121471,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ingest.coincodex.com^
 ||ingest.crash.vault-tec.systems^
 ||ingest.databuckets.com^
-||ingest.do.brainsland.com^
 ||ingest.grupoadslzone.es^
 ||ingest.in.signoz.cloud^
 ||ingest.m2catalyst.com^
@@ -151820,6 +151830,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||mediacandy.ai^
 ||mediacategory.com^
 ||mediacdn.x1hub.com^
+||mediacharger.com^
 ||mediaconvertly.com^
 ||mediacorp.hb-api.omtrdc.net^
 ||mediacorp.sc.omtrdc.net^
@@ -157797,6 +157808,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||morenews4.net^
 ||morenutrition-outletstore.com^
 ||moreoverbritishgolan.com^
+||mores.toponad.com^
 ||moreshare.com^
 ||morespetrol.shop^
 ||morestamping.com^
@@ -163885,6 +163897,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||noa0.compteczam.fr^
 ||noaaduliugvul.online^
 ||noads.biz^
+||noafechu.xyz^
 ||noagup.com^
 ||noahwire.com^
 ||noam.events.data.microsoft.com^
@@ -169471,6 +169484,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||openssp.ru^
 ||openstat.eu^
 ||openstat.net^
+||openstats.co^
 ||openswarthylie.com^
 ||openswim.pro^
 ||opent2.com^
@@ -172015,6 +172029,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||p2ed.site^
 ||p2h08fn94d.com^
 ||p2hn.nxvi538uztec7h125.cyou^
+||p2l.info^
 ||p2lu7q.ru^
 ||p2muoczf5.com^
 ||p2n7fx.lat^
@@ -214339,6 +214354,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||soucvnbylfpxu.online^
 ||soudandondine.shop^
 ||soughstreek.com^
+||sougoapha.com^
 ||sougou-browser.com.cn^
 ||sougou-browsre-qq.hl.cn^
 ||sougou-browsre.hl.cn^
