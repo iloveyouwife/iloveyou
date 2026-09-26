@@ -61593,7 +61593,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||cdn.advertiser.linkvertise.com^
 ||cdn.advg.agency^
 ||cdn.advstatistics.com^
-||cdn.adxcontent.com^
 ||cdn.aegins.com^
 ||cdn.affiliatable.io^
 ||cdn.afwpc.com^
