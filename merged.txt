@@ -89870,7 +89870,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||fu.bilshbefop.top^
 ||fu.raisingmellay.com^
 ||fu68.com^
-||fuagesilk.com^
 ||fublue.com^
 ||fubuki-umami.space^
 ||fuchssolar.de^
@@ -129546,7 +129545,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||maideatp.com^
 ||maidenblankets.store^
 ||maideneyeshadow.com^
-||maidenspunt.cyou^
 ||maidforyou1985.com^
 ||maidlatepreviously.com^
 ||maidr.pro^
@@ -172415,7 +172413,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||rousebej.com^
 ||rousedobjectsfunds.com^
 ||rousedrunaway.com^
-||rousesnp.com^
 ||rousingitselftrias.cfd^
 ||roussebois.com^
 ||route-default-test-mscherer-matamo.apps.ospo-osci.z3b1.p1.openshiftapps.com^
@@ -219664,7 +219661,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||unmeshpaughty.cyou^
 ||unmisdreavusom.com^
 ||unmiterbestand.qpon^
-||unmixedioskehamental.cfd^
 ||unmnehicnyoiz.site^
 ||unmountunfree.cfd^
 ||unmovedknittingeliza.com^
