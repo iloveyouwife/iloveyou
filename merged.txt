@@ -8729,6 +8729,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||1b51d89cf3.com^
 ||1b79f1c808.com^
 ||1b8d56a9a3.com^
+||1b9cec84d7.e5a0add388.com^
 ||1b9e934cbd.com^
 ||1baima.com^
 ||1bank.info^
@@ -9730,6 +9731,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||267700.com^
 ||268g.xyz^
 ||268mob.com^
+||2694316985.2c6ee0a58a.com^
 ||26a.online^
 ||26e8841da4.com^
 ||26gg.bnq86.com^
@@ -11203,7 +11205,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||47.104.140.194/sdk^
 ||47.95.68.71^
 ||470719744966924.wt-eu02.net^
-||47106b2a6e.57b3a65c7b.com^
 ||47235645.xyz^
 ||4736.in^
 ||4738833.click^
@@ -11890,6 +11891,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||5788185.lat^
 ||57883.net^
 ||579960529907681.wt-eu02.net^
+||57b3a65c7b.com^
 ||57db2dbfa3.com^
 ||57f6508c2d.com^
 ||57fe705a09.com^
@@ -72810,7 +72812,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||decibelads.com^
 ||decibelinsight.net^
 ||decide.dev^
-||decide.mixpanel.com^
 ||decideddiarrhoeafrustration.com^
 ||decidedlytackunwelcome.com^
 ||decidedlytighten.com^
@@ -146096,6 +146097,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||mk.nextlgsdp.com^
 ||mk.vattinglanguor.com^
 ||mk0d5qbdj.com^
+||mk8tghjxgcruxyobv.cfd^
 ||mkadsearch.lizhifm.com^
 ||mkaff.com^
 ||mkafmizrar.com^
@@ -151171,6 +151173,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ncrodwckimzgq.space^
 ||ncrsnkkzfnuro.site^
 ||ncs.conf.com.cn^
+||ncs.eadaily.com^
 ||ncspteltd.sc.omtrdc.net^
 ||ncsreporting.com^
 ||ncsro.com^
@@ -233306,6 +233309,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||video.bzfd.it^
 ||video.da.mgtv.com^
 ||video.dispatch.tc.qq.com^
+||video.dmmjp.cc^
 ||video.funnelbox.com^
 ||video.iqiyi.com/v.f4v
 ||video.kts.g.mi.com^
@@ -243140,7 +243144,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||x5betx.com^
 ||x5hw82.3kfymtch6e1x7c8pxtr.cyou^
 ||x5i7.com^
-||x5oklej4.mk8tghjxgcruxyobv.cfd^
 ||x5qfmuzyeftep8n3wmmbc3n8.cfd^
 ||x5qqspqydn.data.adobedc.net^
 ||x5usdt.com^
